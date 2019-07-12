@@ -1,5 +1,6 @@
-今からGitを始めます。
+i今からGitを始めます。
 基本的なワークフローを学びます。
 ・Git add
 ・Git commit
 ・Git rm
+・Git status
