@@ -4,3 +4,4 @@ i今からGitを始めます。
 ・Git commit
 ・Git rm
 ・Git status
+・Git diff
